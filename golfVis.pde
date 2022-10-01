@@ -36,7 +36,7 @@ void setup() {
 }
 
 void draw() {
-  background(back);
+  background(255, 255, 255);
   drawTabs();
   drawGraph();
   graphData();
